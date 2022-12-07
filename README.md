@@ -1,2 +1,3 @@
-# aoc_cargo-generate_template
-Template for a Rust Advent of Code Project using cargo-generate
+# Template for Advent of Code in Rust using cargo-generate
+
+# TODO
