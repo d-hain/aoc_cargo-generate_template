@@ -7,6 +7,7 @@ Either use `cargo install cargo-generate` or refer to the [crates.io page](https
 ## Requirements for running the program
 
 * `input.txt` file has to be 1 folder outside of the project
+* `example.txt` file (example of the puzzle) also has to be 1 folder outside of the project
 
 ## Usage
 
